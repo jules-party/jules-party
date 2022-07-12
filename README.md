@@ -13,4 +13,4 @@ just a nerd who wants a computer science job in the future
 <a href="https://en.wikipedia.org/wiki/Css">![CSS](https://raw.githubusercontent.com/crue-ton/crue-ton/main/assets/css_l.png)</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crue-ton&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jules-party&show_icons=true&theme=cobalt)

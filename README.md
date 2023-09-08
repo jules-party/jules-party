@@ -2,7 +2,6 @@
 
 just a nerd who wants a computer science job in the future
 
-- pronouns: pending... 🤔
 - i use arch ![arch](https://www.archlinux.org/logos/archlinux-icon-crystal-16.svg)
 - monero: 4ARaZd8dAjoM3HFJiUbN339KpeVqWRfwTeyRRb5rWMcMJuJ3n3SA5LCg4JtwQabQeSh84QN754TzC2JK2XBC57VNJyC4eqK
 

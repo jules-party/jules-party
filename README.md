@@ -1,17 +1,23 @@
-## sup!
 
-just a nerd who wants a computer science job in the future
+sup, i code for fun at the moment but i'm also planning on a career in computer science ✌
 
-- i use arch ![arch](https://www.archlinux.org/logos/archlinux-icon-crystal-16.svg)
-- monero: 4ARaZd8dAjoM3HFJiUbN339KpeVqWRfwTeyRRb5rWMcMJuJ3n3SA5LCg4JtwQabQeSh84QN754TzC2JK2XBC57VNJyC4eqK
-
-## Languages I'm kinda familiar with
-
-[![My Skills](https://skillicons.dev/icons?i=bash,py,html,css)](https://skillicons.dev)
-
-## Languages I'm learning
-
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-<br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jules-party&show_icons=true&theme=dark)
+---
+  - **Programming Languages**: Java, HTML/CSS, Python
+  - **PC Setup**:
+    - **CPU**: Ryzen 5600X
+    - **RAM**: CORSAIR VENGENCE 32GB (2x16GB)
+    - **GPU #1**: NVIDIA RTX 2080 TI
+    - **GPU #2**: AMD RX 6600
+    - **Windows Drive**: SAMSUNG 970 EVO Plus 1TB
+    - **Linux Drive**: PNY CS900 500GB
+  - **Other Hobbies**:
+    - Music
+    - Skateboarding
+    - Snowboarding
+    - Fashion
+    - Mechanical Keyboards
+---
+  - **Gitlab**: [jules-party](https://gitlab.com/jules-party)
+  - **Website**: [r4d.neocities.org](https://r4d.neocites.org)
+  - **Monero**: [address](https://raw.githubusercontent.com/jules-party/jules-party/main/assets/monero-address.txt)
+---

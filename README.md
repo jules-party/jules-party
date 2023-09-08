@@ -21,3 +21,5 @@ sup, i code for fun at the moment but i'm also planning on a career in computer 
   - **Website**: [r4d.neocities.org](https://r4d.neocites.org)
   - **Monero**: [address](https://raw.githubusercontent.com/jules-party/jules-party/main/assets/monero-address.txt)
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jules-party&show_icons=true&theme=dark)

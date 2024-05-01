@@ -17,7 +17,7 @@ sup, i code for fun at the moment but i'm also planning on a career in computer 
     - Mechanical Keyboards
 ---
   - **Gitlab**: [jules-party](https://gitlab.com/jules-party)
-  - **Website**: [r4d.neocities.org](https://r4d.neocites.org)
+  - **Website**: [r4d.neocities.org](https://r4d.neocities.org/)
   - **Monero**: [address](https://raw.githubusercontent.com/jules-party/jules-party/main/assets/monero-address.txt)
 ---
 

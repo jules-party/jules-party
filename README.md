@@ -4,11 +4,13 @@ sup, i code for fun at the moment but i'm also planning on a career in computer 
 ---
   - **Programming Languages**: Java, HTML/CSS, Python
   - **PC Setup**:
-    - **CPU**: Ryzen 5600X
-    - **RAM**: CORSAIR VENGENCE 32GB (2x16GB)
+    - **Case**: NCASE M1 Evo
+    - **CPU**: Ryzen 7 7800x3D
+    - **RAM**: 	G.Skill Trident Z5 32GB (2x16GB)
     - **GPU**: NVIDIA RTX 3080 TI
     - **Windows Drive**: SAMSUNG 970 EVO Plus 1TB
-    - **Linux Drive**: PNY CS900 500GB
+    - **Linux Drive**: Some random 500GB M.2 Drive
+    - **Media Drive**: 2TB Seagate Drive
   - **Other Hobbies**:
     - Music
     - Skateboarding

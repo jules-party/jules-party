@@ -1,5 +1,5 @@
 
-sup, i code for fun at the moment but i'm also planning on a career in computer science 
+sup, i code for fun at the moment but i'm also planning on a career in information technology
 
 ---
   - **Programming Languages**: Java, HTML/CSS, Python
